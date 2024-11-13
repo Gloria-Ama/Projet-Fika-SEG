@@ -1,0 +1,80 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.services{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 3%;
+}
+.colonne{
+    background-color: rgb(165, 207, 165);
+    width: 30%;
+    height: fit-content;
+    padding-top: 3%;
+    background-color: bisque;
+    border: 2px solid rgb(196, 243, 243);
+    border-radius: 10px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow:black;
+    box-shadow: 0 4px 18px black;
+}
+.colonne:hover {
+    border-color: #060606e8; 
+    box-shadow: 0 16px 12px rgba(0, 0, 0, 0.3); /* Accentue l'ombre au survol */
+}
+.tete{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: 800;
+    font-style: normal;
+    background-image: url("../image/voyage-canada-112-1280x800.jpeg");
+    height: 10cm;
+    color: rgb(221, 223, 224);
+    text-shadow:0px 8px 8px black ;
+}
+
+#tout{
+    width: 90%;
+    margin: auto;
+}
+.col{
+    background-color: black;
+    color: floralwhite;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 3cm;
+}
+p{
+    width: 85%;
+    margin: auto;
+    padding: 25px;
+}
+.button{
+    background-color:black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 8%;
+    margin-left: 30%;
+    width: 3cm;
+    border-radius: px;
+    border-color: black;
+    border: 20px;
+}
+.button:hover{
+    border-color: blue;
+    box-shadow: 0 16px 12px rgba(0, 0, 0, 0.3); 

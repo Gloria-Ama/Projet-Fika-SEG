@@ -1,0 +1,32 @@
+.t1{
+    background-color: rgb(247, 228, 205);
+    height: 1.5cm;
+    width: 18.5cm;
+    margin-top: 0.5cm;
+    padding: 0.5cm;
+    margin-left: 2cm;
+    border-radius: 15px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 4px 4px 4px 4px rgb(2, 67, 45);
+}
+.s1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tete{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: 800;
+    font-style: normal;
+    background-image: url("../image/20180412142602-db438182-la.jpg");
+    height: 10cm;
+    color: #ebf5f4;
+    text-shadow:0px 8px 8px black ;
+    margin-bottom: 10%;
+}

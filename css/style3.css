@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+p{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    margin-top: 5%;
+    padding: 2%;
+}
+.tete{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: 800;
+    font-style: normal;
+    background-image: url("../image/travail-de-groupe.webp");
+    width: 100%;
+    height: 10cm;
+    color: #ecf4f3;
+    text-shadow:0px 18px 18px black ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
