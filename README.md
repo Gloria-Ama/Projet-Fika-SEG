@@ -1,0 +1,5 @@
+Bonjour à tous,
+Je suis ravie de partager un projet sur lequel j'ai travaillé récemment dans le cadre de mes études en génie logiciel à l'Université d'Ottawa. 
+Avec une équipe de six personnes talentueuses et motivées, nous avons collaboré pour créer un site web de voyage.
+En tant que principale développeuse, j'ai pris en charge le codage en HTML, CSS et JavaScript. Cependant, ce projet n'aurait pas été possible sans l'incroyable créativité, organisation et esprit d'équipe de mes coéquipiers. Chacun a apporté des idées uniques et des perspectives nouvelles, que ce soit dans la conception, la recherche ou l'organisation des contenus. Leur dévouement et leur implication ont été essentiels pour mener ce projet à bien.
+Cette expérience m'a permis non seulement de perfectionner mes compétences techniques, mais aussi de comprendre l'importance d'une communication efficace et d'un esprit de collaboration pour atteindre un objectif commun. Je suis fière de ce que nous avons accompli ensemble et reconnaissante pour cette aventure enrichissante.
